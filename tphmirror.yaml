@@ -1,0 +1,61 @@
+meta:
+  algorithm: balanced
+  players: 1
+  seed_name: "True Pot Hunt w/ Starting Mirror"
+  seed_notes: "213/420 Triforce Hunt featuring Pottery Lottery, Crosskeys, Shopsanity and Keydropshuffle. At least you start with boots, a mirror, and a lamp!"
+  type: "doors"
+  category: "tph"
+settings:
+  1:
+    accessibility: items
+    beemizer: '0'
+    bigkeyshuffle: 1
+    bombbag: 0
+    bow_mode: progressive
+    collection_rate: 0
+    compassshuffle: 1
+    crystals_ganon: '7'
+    crystals_gt: '7'
+    decoupledoors: 0
+    difficulty: normal
+    door_shuffle: vanilla
+    door_type_mode: original
+    dropshuffle: 1
+    dungeon_counters: 'on'
+    enemy_damage: default
+    enemy_health: default
+    experimental: 1
+    flute_mode: normal
+    goal: triforcehunt
+    hints: 1
+    intensity: 2
+    item_functionality: normal
+    key_logic_algorithm: default
+    keyshuffle: wild
+    logic: noglitches
+    mapshuffle: 1
+    mixed_travel: prevent
+    mode: open
+    openpyramid: auto
+    overworld_map: default
+    pottery: lottery
+    pseudoboots: 0
+    shopsanity: 1
+    shuffle: crossed
+    shufflebosses: none
+    shuffleenemies: none
+    shufflelinks: 0
+    shufflepots: 0
+    shuffletavern: 0
+    standardize_palettes: standardize
+    swords: random
+    take_any: none
+    triforce_goal: 213
+    triforce_pool: 420
+start_inventory:
+  1:
+  - Lamp
+  - Pegasus Boots
+  - Rupees (20)
+  - Rupees (100)
+  - Rupees (300)

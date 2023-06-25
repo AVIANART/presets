@@ -1,0 +1,121 @@
+meta:
+  algorithm: balanced
+  players: 1
+  seed_name: "Kekpriest Lottery"
+  seed_notes: "Kekpriest, but with TPH flags. Prepare to suffer"
+  type: "doors"
+  category: "kisspriest"
+  enemized: true
+item_pool:
+  1:
+    Arrows (10): 12
+    Blue Boomerang: 1
+    Bombos: 1
+    Bombs (10): 1
+    Bombs (3): 16
+    Book of Mudora: 1
+    Boss Heart Container: 10
+    Bottle: 2
+    Bottle (Bee): 1
+    Bottle (Fairy): 1
+    Bug Catching Net: 1
+    Cane of Byrna: 1
+    Cane of Somaria: 1
+    Cape: 1
+    Ether: 1
+    Fire Rod: 1
+    Flippers: 1
+    Hammer: 1
+    Hookshot: 1
+    Ice Rod: 1
+    Lamp: 1
+    Magic Mirror: 1
+    Magic Powder: 1
+    Magic Upgrade (1/2): 1
+    Moon Pearl: 1
+    Mushroom: 1
+    Ocarina: 1
+    Pegasus Boots: 1
+    Piece of Heart: 24
+    Progressive Armor: 2
+    Progressive Bow: 1
+    Progressive Glove: 2
+    Progressive Shield: 3
+    Progressive Sword: 2
+    Quake: 1
+    Red Boomerang: 1
+    Rupee (1): 2
+    Rupees (100): 1
+    Rupees (20): 29
+    Rupees (300): 5
+    Rupees (5): 4
+    Rupees (50): 7
+    Sanctuary Heart Container: 1
+    Shovel: 1
+    Single Arrow: 1
+    Triforce: 1
+medallions:
+  1:
+    Misery Mire: Ether
+    Turtle Rock: Quake
+placements:
+  1:
+    Sanctuary: Triforce
+settings:
+  1:
+    accessibility: none
+    beemizer: '0'
+    bigkeyshuffle: 0
+    bombbag: 0
+    bow_mode: progressive
+    collection_rate: 0
+    compassshuffle: 0
+    crystals_ganon: '0'
+    crystals_gt: '0'
+    decoupledoors: 0
+    difficulty: normal
+    door_shuffle: crossed
+    door_type_mode: chaos
+    dropshuffle: 1
+    dungeon_counters: pickup
+    enemy_damage: default
+    enemy_health: default
+    experimental: 1
+    flute_mode: normal
+    goal: ganon
+    hints: 1
+    intensity: 3
+    item_functionality: normal
+    key_logic_algorithm: default
+    keyshuffle: none
+    logic: noglitches
+    mapshuffle: 0
+    mixed_travel: prevent
+    mode: standard
+    openpyramid: auto
+    overworld_map: default
+    pottery: lottery
+    pseudoboots: 1
+    shopsanity: 0
+    shuffle: vanilla
+    shufflebosses: random
+    shuffleenemies: random
+    shufflelinks: 0
+    shufflepots: 0
+    shuffletavern: 0
+    standardize_palettes: standardize
+    swords: random
+    take_any: none
+    trap_door_mode: optional
+    triforce_goal: 0
+    triforce_pool: 0
+start_inventory:
+  1:
+    - Rupees (20)
+    - Rupees (20)
+    - Rupees (20)
+    - Rupees (5)
+    - Rupee (1)
+    - Rupee (1)
+    - Rupee (1)
+    - Rupee (1)
